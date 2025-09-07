@@ -75,4 +75,4 @@ The work follows the instructions from **GTC ML Project 1**.
 ## How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/mustafagenedy/gtc-ml-project1-hotel-bookings.git
+   git clone https://github.com/YoussefG02/gtc-ml-project1-hotel-bookings.git
